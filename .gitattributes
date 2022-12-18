@@ -1,0 +1,10 @@
+* linguist-language=Python
+
+*Dockerfile linguist-language=Docker
+docker-compose*.yml linguist-language=YAML
+docker-compose*.yaml linguist-language=YAML
+*.yml linguist-language=YAML
+*.yaml linguist-language=YAML
+*.js linguist-language=JavaScript
+*.css linguist-language=CSS
+*.html linguist-language=HTML
